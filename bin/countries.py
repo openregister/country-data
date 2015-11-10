@@ -21,7 +21,7 @@ if __name__ == '__main__':
     print (*[field for column, field in column_to_field], sep='\t')
 
     # GB isn't included in the csv for some reason
-    print ('GB', 'United Kingdom', 'The United Kingdom of Great Britain and Northern Ireland', 'Briton, British citizen', sep='\t')
+    print ('GB', '', '', 'United Kingdom', 'The United Kingdom of Great Britain and Northern Ireland', 'Briton, British citizen', sep='\t')
     for num, row in enumerate(reader):
         row['start-date'] = ''
         row['end-date'] = ''
