@@ -1,12 +1,21 @@
+NAME=$(shell basename ${PWD})
 # see: https://www.gov.uk/government/publications/iso-country-codes
 URL=https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/389369/appendix5.pdf
+FILE=$(NAME).pdf
+TXT=$(NAME).txt
+INDEX=countries.txt
 
-countries.csv:	countries.pdf
-	pdftotext countries.pdf > $@
+countries.txt:	$(TXT) Makefile
+	cat $(TXT) | sed -e '/^[a-z]/d' -e 's/[ \t\r]*$$//' -e '/^$$/d' -e '/[Aa]ppendix/d' > $@
 
-# download from GOV.UK
-countries.pdf:
+$(TXT):	$(FILE) Makefile
+	pdftotext $(FILE) $(TXT)
+
+$(FILE):
 	curl -s $(URL) > $@
+
+clean:
+	rm -f $(FILE) $(TXT) $(INDEX)
 
 init:
 	brew install poppler

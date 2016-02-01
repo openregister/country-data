@@ -1,0 +1,252 @@
+Andorra
+United Arab Emirates
+Afghanistan
+Antigua and Barbuda
+Anguilla
+Albania
+Armenia
+Netherlands Antilles
+Angola
+Antarctica
+Argentina
+Old style Arpane
+American Samoa
+Austria
+Australia
+Aruba
+Azerbaidjan
+Bosnia-Herzegovina
+Barbados
+Bangladesh
+Belgium
+Burkina Faso
+Bulgaria
+Bahrain
+Burundi
+Benin
+Bermuda
+Brunei Darussalam
+Bolivia
+Brazil
+Bahamas
+Bhutan
+Bouvet Island
+Botswana
+Belarus
+Belize
+Canada
+Cocos (Keeling) Islands
+Central African Republic
+Congo
+Switzerland
+Ivory Coast (Cote D'Ivoire)
+Cook Islands
+Chile
+Cameroon
+China
+Colombia
+Commercial
+Costa Rica
+Former Czechoslovakia
+Cuba
+Cape Verde
+Christmas Island
+Cyprus
+Czech Republic
+Germany
+Djibouti
+Denmark
+Dominica
+Dominican Republic
+Algeria
+Ecuado
+USA Educational
+Estonia
+Egyp
+Western Sahara
+Eritrea
+Spain
+Ethiopia
+Finland
+Fiji
+Falkland Islands
+Micronesia
+Faroe Islands
+France
+France (European Territory)
+Gabon
+Great Britain
+Grenada
+Georgia
+French Guyana
+Ghana
+Gibralta
+Greenland
+Gambia
+Guinea
+USA Governmen
+Guadeloupe (French)
+Equatorial Guinea
+Greece
+S. Georgia & S. Sandwich Isls.
+Guatemala
+Guam (USA)
+Guinea Bissau
+Guyana
+Hong Kong
+Heard and McDonald Islands
+Honduras
+Croatia
+Haiti
+Hungary
+Indonesia
+Ireland
+Israel
+India
+International
+British Indian Ocean Territory
+Iraq
+Iran
+Iceland
+Italy
+Jamaica
+Jordan
+Japan
+Kenya
+Kyrgyzstan
+Cambodia
+Kiribati
+Comoros
+Saint Kitts & Nevis Anguilla
+North Korea
+South Korea
+Kuwai
+Cayman Islands
+Kazakhstan
+Laos
+Lebanon
+Saint Lucia
+Liechtenstein
+Sri Lanka
+Liberia
+Lesotho
+Lithuania
+Luxembourg
+Latvia
+Libya
+Morocco
+Monaco
+Moldavia
+Madagasca
+Marshall Islands
+USA Military
+Macedonia
+Mali
+Myanma
+Mongolia
+Macau
+Northern Mariana Islands
+Martinique (French)
+Mauritania
+Montserra
+Malta
+Mauritius
+Maldives
+Malawi
+Mexico
+Malaysia
+Mozambique
+Namibia
+NATO (this was purged in 1996 - see hq.nato.int)
+New Caledonia (French)
+Nige
+Network
+Norfolk Island
+Nigeria
+Nicaragua
+Netherlands
+Norway
+Nepal
+Nauru
+Neutral Zone
+Niue
+New Zealand
+Oman
+Non-Profit Making Organisations (sic)
+Panama
+Peru
+Polynesia (French)
+Papua New Guinea
+Philippines
+Pakistan
+Poland
+Saint Pierre and Miquelon
+Pitcairn Island
+Puerto Rico
+Portugal
+Palau
+Paraguay
+Qata
+Reunion (French)
+Romania
+Russian Federation
+Rwanda
+Saudi Arabia
+Solomon Islands
+Seychelles
+Sudan
+Sweden
+Singapore
+Saint Helena
+Slovenia
+Svalbard and Jan Mayen Islands
+Slovak Republic
+Sierra Leone
+San Marino
+Senegal
+Somalia
+Suriname
+Saint Tome (Sao Tome) and Principe
+Former USSR
+El Salvado
+Syria
+Swaziland
+Turks and Caicos Islands
+Chad
+French Southern Territories
+Togo
+Thailand
+Tadjikistan
+Tokelau
+Turkmenistan
+Tunisia
+Tonga
+East Timo
+Turkey
+Trinidad and Tobago
+Tuvalu
+Taiwan
+Tanzania
+Ukraine
+Uganda
+United Kingdom
+USA Minor Outlying Islands
+United States
+Uruguay
+Uzbekistan
+Vatican City State
+Saint Vincent & Grenadines
+Venezuela
+Virgin Islands (British)
+Virgin Islands (USA)
+Vietnam
+Vanuatu
+Wallis and Futuna Islands
+Samoa
+Yemen
+Mayotte
+Yugoslavia
+South Africa
+Zambia
+Zaire
+Zimbabwe
