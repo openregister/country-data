@@ -1,252 +1,252 @@
-Andorra
-United Arab Emirates
 Afghanistan
-Antigua and Barbuda
-Anguilla
 Albania
-Armenia
-Netherlands Antilles
-Angola
-Antarctica
-Argentina
-Old style Arpane
+Algeria
 American Samoa
-Austria
-Australia
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
 Aruba
+Australia
+Austria
 Azerbaidjan
-Bosnia-Herzegovina
-Barbados
-Bangladesh
-Belgium
-Burkina Faso
-Bulgaria
+Bahamas
 Bahrain
-Burundi
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
 Benin
 Bermuda
-Brunei Darussalam
-Bolivia
-Brazil
-Bahamas
 Bhutan
-Bouvet Island
+Bolivia
+Bosnia-Herzegovina
 Botswana
-Belarus
-Belize
-Canada
-Cocos (Keeling) Islands
-Central African Republic
-Congo
-Switzerland
-Ivory Coast (Cote D'Ivoire)
-Cook Islands
-Chile
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
 Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
 China
+Christmas Island
+Cocos (Keeling) Islands
 Colombia
 Commercial
+Comoros
+Congo
+Cook Islands
 Costa Rica
-Former Czechoslovakia
+Croatia
 Cuba
-Cape Verde
-Christmas Island
 Cyprus
 Czech Republic
-Germany
-Djibouti
 Denmark
+Djibouti
 Dominica
 Dominican Republic
-Algeria
+East Timo
 Ecuado
-USA Educational
-Estonia
 Egyp
-Western Sahara
+El Salvado
+Equatorial Guinea
 Eritrea
-Spain
+Estonia
 Ethiopia
-Finland
-Fiji
 Falkland Islands
-Micronesia
 Faroe Islands
+Fiji
+Finland
+Former Czechoslovakia
+Former USSR
 France
 France (European Territory)
-Gabon
-Great Britain
-Grenada
-Georgia
 French Guyana
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
 Ghana
 Gibralta
-Greenland
-Gambia
-Guinea
-USA Governmen
-Guadeloupe (French)
-Equatorial Guinea
+Great Britain
 Greece
-S. Georgia & S. Sandwich Isls.
-Guatemala
+Greenland
+Grenada
+Guadeloupe (French)
 Guam (USA)
+Guatemala
+Guinea
 Guinea Bissau
 Guyana
-Hong Kong
+Haiti
 Heard and McDonald Islands
 Honduras
-Croatia
-Haiti
+Hong Kong
 Hungary
+Iceland
+India
 Indonesia
+International
+Iran
+Iraq
 Ireland
 Israel
-India
-International
-British Indian Ocean Territory
-Iraq
-Iran
-Iceland
 Italy
+Ivory Coast (Cote D'Ivoire)
 Jamaica
-Jordan
 Japan
-Kenya
-Kyrgyzstan
-Cambodia
-Kiribati
-Comoros
-Saint Kitts & Nevis Anguilla
-North Korea
-South Korea
-Kuwai
-Cayman Islands
+Jordan
 Kazakhstan
+Kenya
+Kiribati
+Kuwai
+Kyrgyzstan
 Laos
+Latvia
 Lebanon
-Saint Lucia
-Liechtenstein
-Sri Lanka
-Liberia
 Lesotho
+Liberia
+Libya
+Liechtenstein
 Lithuania
 Luxembourg
-Latvia
-Libya
-Morocco
-Monaco
-Moldavia
-Madagasca
-Marshall Islands
-USA Military
-Macedonia
-Mali
-Myanma
-Mongolia
 Macau
-Northern Mariana Islands
+Macedonia
+Madagasca
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
 Martinique (French)
 Mauritania
-Montserra
-Malta
 Mauritius
-Maldives
-Malawi
+Mayotte
 Mexico
-Malaysia
+Micronesia
+Moldavia
+Monaco
+Mongolia
+Montserra
+Morocco
 Mozambique
-Namibia
+Myanma
 NATO (this was purged in 1996 - see hq.nato.int)
-New Caledonia (French)
-Nige
-Network
-Norfolk Island
-Nigeria
-Nicaragua
-Netherlands
-Norway
-Nepal
+Namibia
 Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+Network
 Neutral Zone
-Niue
+New Caledonia (French)
 New Zealand
-Oman
+Nicaragua
+Nige
+Nigeria
+Niue
 Non-Profit Making Organisations (sic)
-Panama
-Peru
-Polynesia (French)
-Papua New Guinea
-Philippines
+Norfolk Island
+North Korea
+Northern Mariana Islands
+Norway
+Old style Arpane
+Oman
 Pakistan
-Poland
-Saint Pierre and Miquelon
-Pitcairn Island
-Puerto Rico
-Portugal
 Palau
+Panama
+Papua New Guinea
 Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Polynesia (French)
+Portugal
+Puerto Rico
 Qata
 Reunion (French)
 Romania
 Russian Federation
 Rwanda
-Saudi Arabia
-Solomon Islands
-Seychelles
-Sudan
-Sweden
-Singapore
+S. Georgia & S. Sandwich Isls.
 Saint Helena
-Slovenia
-Svalbard and Jan Mayen Islands
-Slovak Republic
-Sierra Leone
-San Marino
-Senegal
-Somalia
-Suriname
+Saint Kitts & Nevis Anguilla
+Saint Lucia
+Saint Pierre and Miquelon
 Saint Tome (Sao Tome) and Principe
-Former USSR
-El Salvado
-Syria
+Saint Vincent & Grenadines
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Seychelles
+Sierra Leone
+Singapore
+Slovak Republic
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Korea
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen Islands
 Swaziland
-Turks and Caicos Islands
-Chad
-French Southern Territories
-Togo
-Thailand
+Sweden
+Switzerland
+Syria
 Tadjikistan
-Tokelau
-Turkmenistan
-Tunisia
-Tonga
-East Timo
-Turkey
-Trinidad and Tobago
-Tuvalu
 Taiwan
 Tanzania
-Ukraine
-Uganda
-United Kingdom
+Thailand
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA Educational
+USA Governmen
+USA Military
 USA Minor Outlying Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
 United States
 Uruguay
 Uzbekistan
+Vanuatu
 Vatican City State
-Saint Vincent & Grenadines
 Venezuela
+Vietnam
 Virgin Islands (British)
 Virgin Islands (USA)
-Vietnam
-Vanuatu
 Wallis and Futuna Islands
-Samoa
+Western Sahara
 Yemen
-Mayotte
 Yugoslavia
-South Africa
-Zambia
 Zaire
+Zambia
 Zimbabwe

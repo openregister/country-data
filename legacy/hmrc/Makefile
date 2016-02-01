@@ -6,7 +6,7 @@ TXT=$(NAME).txt
 INDEX=countries.txt
 
 countries.txt:	$(TXT) Makefile
-	cat $(TXT) | sed -e '/^[a-z]/d' -e 's/[ \t\r]*$$//' -e '/^$$/d' -e '/[Aa]ppendix/d' > $@
+	cat $(TXT) | sed -e '/^[a-z]/d' -e 's/[ \t\r]*$$//' -e '/^$$/d' -e '/[Aa]ppendix/d' | sort > $@
 
 $(TXT):	$(FILE) Makefile
 	pdftotext $(FILE) $(TXT)
