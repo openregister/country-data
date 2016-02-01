@@ -16,8 +16,11 @@ GPC country codes (published by FCO): https://www.gov.uk/government/uploads/syst
 
 UK Trade Tariff: country and currency codes: https://www.gov.uk/government/publications/uk-trade-tariff-country-and-currency-codes/uk-trade-tariff-country-and-currency-codes
 
+Home office fees drop-down: https://visa-fees.homeoffice.gov.uk/y
+
 ## europe-specific
 
 Countries in EU and EEA: https://www.gov.uk/eu-eea
 
 EU country codes: https://www.gov.uk/guidance/vat-eu-country-codes-vat-numbers-and-vat-in-other-languages
+
