@@ -5,8 +5,8 @@ FILE=$(NAME).pdf
 TXT=$(NAME).txt
 INDEX=countries.txt
 
-countries.txt:	$(TXT) Makefile
-	cat $(TXT) | sed -e '/^[a-z]/d' -e 's/[ \t\r]*$$//' -e '/^$$/d' -e '/[Aa]ppendix/d' | sort > $@
+countries.txt:	$(TXT) countries.sh
+	countries.sh < $(TXT) > $@
 
 $(TXT):	$(FILE) Makefile
 	pdftotext $(FILE) $(TXT)
