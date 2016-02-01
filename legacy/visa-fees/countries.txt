@@ -12,7 +12,7 @@ Australia
 Austria
 Azerbaijan
 Bahamas
-Bahrain 
+Bahrain
 Bangladesh
 Barbados
 Belarus
@@ -52,7 +52,7 @@ Czech Republic
 DPR Korea
 Denmark
 Djibouti
-Dominica 
+Dominica
 Dominican Republic
 East Timor
 Ecuador
@@ -108,7 +108,7 @@ Lebanon
 Lesotho
 Liberia
 Libyan Arab Jamahiriya
-Liechtenstein 
+Liechtenstein
 Lithuania
 Luxembourg
 Macau
@@ -119,9 +119,9 @@ Malaysia
 Maldives
 Mali
 Malta
-Marshall Islands 
+Marshall Islands
 Mauritania
-Mauritius 
+Mauritius
 Mexico
 Micronesia
 Moldova
@@ -143,7 +143,7 @@ Nigeria
 Norway
 Oman
 Pakistan
-Palau 
+Palau
 Palestinian Occupied Territories
 Panama
 Papua New Guinea
@@ -157,27 +157,27 @@ Romania
 Russia
 Rwanda
 Samoa
-San Marino 
+San Marino
 Sao Tome and Principe
 Saudi Arabia
 Select…
 Senegal
 Serbia
-Seychelles 
+Seychelles
 Sierra Leone
 Singapore
 Slovakia
 Slovenia
-Solomon Islands 
+Solomon Islands
 Somalia
 South Africa
 South Korea
 South Sudan
 Spain
 Sri Lanka
-St Kitts and Nevis 
-St Lucia 
-St Vincent and Grenadine 
+St Kitts and Nevis
+St Lucia
+St Vincent and Grenadine
 Sudan
 Suriname
 Swaziland
@@ -190,11 +190,11 @@ Tanzania, United Rep. of
 Thailand
 The Gambia
 Tonga
-Trinidad and Tobago 
+Trinidad and Tobago
 Tunisia
 Turkey
 Turkmenistan
-Turks and Caicos Islands 
+Turks and Caicos Islands
 Tuvalu
 UAE
 USA
@@ -202,8 +202,8 @@ Uganda
 Ukraine
 Uruguay
 Uzbekistan
-Vanuatu 
-Vatican City 
+Vanuatu
+Vatican City
 Venezuela
 Vietnam
 Western Sahara
