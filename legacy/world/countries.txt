@@ -159,13 +159,12 @@ Pitcairn Island
 Poland
 Portugal
 Qatar
-Réunion
 Romania
 Russia
 Rwanda
+Réunion
 Samoa
 San Marino
-São Tomé and Principe
 Saudi Arabia
 Senegal
 Serbia
@@ -194,6 +193,7 @@ Swaziland
 Sweden
 Switzerland
 Syria
+São Tomé and Principe
 Taiwan
 Tajikistan
 Tanzania
@@ -208,12 +208,12 @@ Turkey
 Turkmenistan
 Turks and Caicos Islands
 Tuvalu
+USA
 Uganda
 Ukraine
 United Arab Emirates
 United Kingdom
 Uruguay
-USA
 Uzbekistan
 Vanuatu
 Venezuela

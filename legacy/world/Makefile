@@ -3,8 +3,8 @@ URL='https://www.gov.uk/api/world-locations'
 FILE=$(NAME).tsv
 INDEX=countries.txt
 
-countries.txt:	$(FILE) Makefile
-	awk -F'	' '$$1 != "None" {print $$3}' $(FILE) > $@
+countries.txt:	$(FILE) countries.sh
+	countries.sh < $(FILE) > $@
 
 $(FILE):	bin/world.py
 	bin/world.py > $@
