@@ -84,6 +84,12 @@ names = {
         'url': 'https://www.faster-uk-entry.service.gov.uk/initialapplication/details',
         'format': 'HTML',
         'publisher': 'home-office'
+    },
+    'trade-tariff': {
+        'title': 'Trade Tariff',
+        'url': 'https://www.gov.uk/government/publications/uk-trade-tariff-country-and-currency-codes',
+        'format': 'HTML',
+        'publisher': 'hm-revenue-customs'
     }
 }
 
@@ -109,7 +115,7 @@ for name in names:
 
 
 def name_link(name):
-    return "<a href='#%s'>%s</a>" % (name, name)
+    return "<a href='#%s' class='_%s'>%s</a>" % (name, name, name)
 
 print("""
 <!doctype html>
@@ -149,6 +155,7 @@ td {
 <table id="lists" class="tablesorter">
 <thead>
     <tr>
+      <th></th>
       <th class='name'>List</th>
       <th>Title</th>
       <th>Publisher</th>
@@ -162,6 +169,7 @@ td {
 for name in sorted(names):
     txt = "%s/countries.txt" % (name)
     print("<tr id='%s'>" % (name))
+    print("<td><input type='checkbox' name='%s' checked></td>" % (name))
     print("<td>%s</td>" % (name))
     print("<td><a href='%s'>%s</a></td>" % (names[name]['url'], names[name]['title']))
     print("<td>%s</td>" % (names[name]['publisher']))
@@ -186,10 +194,10 @@ print("""
 """)
 
 for country in sorted(by_country, key=c.sort_key):
-    names_list = ", ".join([name_link(name) for name in by_country[country]['names']])
+    names_list = " ".join([name_link(name) for name in by_country[country]['names']])
     print("<tr>")
     print("<td>%s</td>" % (country))
-    print("<td>%s</td>" % (names_list))
+    print("<td class='names'>%s</td>" % (names_list))
     print("<td class='count'>%s</td>" % (by_country[country]['count']))
     print("</tr>")
 
@@ -204,6 +212,19 @@ print("""
 $(function() {
     $("#lists").tablesorter({theme : 'blue'});
     $("#countries").tablesorter({theme : 'blue'});
+    $('input').each(function(){
+        $(this).click(function () {
+            $("._" + this.name).toggle();
+            $('#countries td.names').each(function () {
+                $(this).parent().show();
+                var count = $(this).children(':visible').length;
+                if (count == 0) {
+                    $(this).parent().hide();
+                }
+                $(this).next('td').text(count);
+            });
+        });
+    });
 });
 </script>
 </html>
