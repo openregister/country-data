@@ -1,0 +1,102 @@
+Afghanistan
+Albania
+Angola
+Ascension Island
+Bangladesh
+Benin
+Bosnia and Herzegovina
+Brazil
+Burkina Faso
+Burma
+Burundi
+Cambodia
+Cameroon
+Cape Verde
+Central African Republic
+Chad
+Chile
+China
+Congo
+Congo (Democratic Republic)
+Cuba
+Ecuador
+Egypt
+Eritrea
+Ethiopia
+Fiji
+Gambia, The
+Georgia
+Ghana
+Guatemala
+Guinea
+Guyana
+Haiti
+Honduras
+India
+Indonesia
+Iraq
+Ivory Coast
+Jamaica
+Japan
+Jordan
+Kenya
+Kosovo
+Kyrgyzstan
+Laos
+Lebanon
+Lesotho
+Liberia
+Libya
+Madagascar
+Malawi
+Maldives
+Mali
+Mauritania
+Moldova
+Mongolia
+Montserrat
+Mozambique
+Namibia
+Nepal
+Nicaragua
+Niger
+Nigeria
+Occupied Palestinian Territories (OPT)
+Pakistan
+Papua New Guinea
+Peru
+Philippines
+Pitcairn Islands
+Russia
+Rwanda
+Samoa
+Samoa (American)
+Senegal
+Serbia
+Sierra Leone
+Solomon Islands
+Somalia
+South Africa
+South Sudan
+Sri Lanka
+St Helena
+St Lucia
+Sudan
+Syria
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tristan Da Cunha
+Tunisia
+Turkey
+Turks and Caicos Islands
+Uganda
+Ukraine
+United Kingdom
+Vanuatu
+Vietnam
+Yemen
+Zambia
+Zimbabwe
