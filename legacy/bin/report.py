@@ -198,8 +198,8 @@ print("""
 </table>
 </div>
 </body>
-<script type="text/javascript" src="bower_components/jquery/dist/jquery.js"></script>
-<script type="text/javascript" src="bower_components/tablesorter/dist/js/jquery.tablesorter.combined.js"></script>
+<script type="text/javascript" src="https://code.jquery.com/jquery-2.2.0.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/tablesorter/2.17.4/js/jquery.tablesorter.min.js"></script>
 <script>
 $(function() {
     $("#lists").tablesorter({theme : 'blue'});
