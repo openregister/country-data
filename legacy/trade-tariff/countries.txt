@@ -24,11 +24,11 @@ Azores 7
 Bahamas
 Bahrain
 Baker Island 4
-Bangladesh (formerly East  Pakistan)
+Bangladesh (formerly East Pakistan)
 Barbados
 Belarus
 Belgium
-Belize (formerly British  Honduras)
+Belize (formerly British Honduras)
 Benin (formerly Dahomey)
 Bermuda
 Bhutan
@@ -61,7 +61,7 @@ China
 Christmas Island (Indian Ocean)
 Cocos Islands
 Colombia
-Comoros (Great Comoro  Anjouan and Moheli)
+Comoros (Great Comoro Anjouan and Moheli)
 Congo
 Congo (Democratic Republic of – formerly Zaire)
 Continental Shelf (NW European) - Belgian Sector
@@ -255,7 +255,7 @@ Sri Lanka (formerly Ceylon)
 St Barthelemy 9
 St Berthelemy 9
 St Eustatius
-St Helena (including Ascension  Island and Tristan da Cunha Islands)
+St Helena (including Ascension Island and Tristan da Cunha Islands)
 St Kitts and Nevis
 St Lucia
 St Maarten (North) 9
@@ -263,7 +263,7 @@ St Maarten (South)
 St Pierre and Miquelon
 St Vincent and the Grenadines
 Surinam
-Svalbard Archipelago (including  Spitsbergen and Jan  Mayen) 18
+Svalbard Archipelago (including Spitsbergen and Jan Mayen) 18
 Swan Islands 19
 Swaziland (Ngwame)
 Sweden
