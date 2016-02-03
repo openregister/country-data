@@ -145,6 +145,13 @@ td {
 .name, .country {
     width: 20%;
 }
+
+#geographical-names .name,
+.geographical-names .country {
+    color: white;
+    background-color: #005ea5;
+}
+
 </style>
 </head>
 <body>
@@ -170,7 +177,7 @@ for name in sorted(names):
     txt = "%s/countries.txt" % (name)
     print("<tr id='%s'>" % (name))
     print("<td><input type='checkbox' name='%s' checked></td>" % (name))
-    print("<td>%s</td>" % (name))
+    print("<td class='name'>%s</td>" % (name))
     print("<td><a href='%s'>%s</a></td>" % (names[name]['url'], names[name]['title']))
     print("<td>%s</td>" % (names[name]['publisher']))
     print("<td><a href='%s'>%s</a></td>" % (names[name]['data'], names[name]['format']))
@@ -194,9 +201,11 @@ print("""
 """)
 
 for country in sorted(by_country, key=c.sort_key):
+    classes = " ".join([name for name in by_country[country]['names']])
     names_list = " ".join([name_link(name) for name in by_country[country]['names']])
-    print("<tr>")
-    print("<td>%s</td>" % (country))
+
+    print("<tr class='%s'>" % (classes))
+    print("<td class='country'>%s</td>" % (country))
     print("<td class='names'>%s</td>" % (names_list))
     print("<td class='count'>%s</td>" % (by_country[country]['count']))
     print("</tr>")
