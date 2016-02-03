@@ -93,6 +93,55 @@ names = {
     }
 }
 
+issues = [
+    { 'countries': [
+        "Åland Islands",
+        "Aland Islands 2",
+        "Finland (including Aland Islands)"
+    ]},
+    { 'countries': [
+        "Korea (North)",
+        "Korea (South)",
+        "Korea, Democratic People's Republic of",
+        "Korea, North",
+        "Korea, Republic of",
+        "Korea, South",
+        "DPR Korea",
+        "North Korea",
+        "South Korea"
+    ]},
+    { 'countries': [
+        "Occ. Palestinian Territories",
+        "Occupied Palestinian Territories (OPT)",
+        "Occupied Palestinian Territory (West Bank (including East Jerusalem) and Gaza Strip)",
+        "Palestinian Occupied Territories",
+        "Palestinian Territory, Occupied",
+        "The Occupied Palestinian Territories"
+    ]},
+    { 'countries': [
+        "Reunion",
+        "Réunion",
+        "Reunion"
+    ]},
+    { 'countries': [
+        "Tanzania",
+        "Tanzania (Tanganyika, Zanzibar, Pemba)",
+        "Tanzania, United Rep. of",
+        "Tanzania, United Republic of"
+    ]},
+    { 'countries': [
+        "Vatican City",
+        "Vatican City State",
+        "Holy See",
+        "Holy See (Vatican City State"
+    ]},
+    { 'countries': [
+        "Heard and McDonald Islands",
+        "Heard and McDonald lslands",
+        "Heard Island and McDonald Islands"
+    ]}
+]
+
 by_country = {}
 
 for name in names:
@@ -136,7 +185,7 @@ table {
 th, td {
     text-align: left;
 }
-.count {
+.count, .issue {
     text-align: right;
 }
 td {
@@ -144,6 +193,11 @@ td {
 }
 .name, .country {
     width: 20%;
+}
+
+#issues .countries span {
+    background-color: #f5f0d6;
+    margin-right: 1.2em;
 }
 
 #geographical-names .name,
@@ -213,6 +267,32 @@ for country in sorted(by_country, key=c.sort_key):
 print("""
 </tbody>
 </table>
+
+<h2>Issues</h2>
+<table id="issues" class="tablesorter">
+<thead>
+    <tr>
+        <th class='issue'>Issue</th>
+        <th class='countries'>Countries</th>
+    </tr>
+</thead>
+<tbody>
+""")
+
+n = 0
+for issue in issues:
+    countries_list = "</span> <span>".join([country for country in issue['countries']])
+    n = n + 1
+    print("<tr id='issue_%s'>" % (n))
+    print("<td class='issue'>%s</td>" % (n))
+    print("<td class='countries'><span>%s</span></td>" % (countries_list))
+    print("</tr>")
+
+
+print("""
+</tbody>
+</table>
+
 </div>
 </body>
 <script type="text/javascript" src="https://code.jquery.com/jquery-2.2.0.min.js"></script>
@@ -221,6 +301,7 @@ print("""
 $(function() {
     $("#lists").tablesorter({theme : 'blue'});
     $("#countries").tablesorter({theme : 'blue'});
+    $("#issues").tablesorter({theme : 'blue'});
     $('input').each(function(){
         $(this).click(function () {
             $("._" + this.name).toggle();
