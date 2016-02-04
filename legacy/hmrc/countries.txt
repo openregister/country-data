@@ -58,10 +58,10 @@ Denmark
 Djibouti
 Dominica
 Dominican Republic
-East Timo
-Ecuado
-Egyp
-El Salvado
+East Timor
+Ecuador
+Egypt
+El Salvador
 Equatorial Guinea
 Eritrea
 Estonia
@@ -81,7 +81,7 @@ Gambia
 Georgia
 Germany
 Ghana
-Gibralta
+Gibraltar
 Great Britain
 Greece
 Greenland
@@ -113,7 +113,7 @@ Jordan
 Kazakhstan
 Kenya
 Kiribati
-Kuwai
+Kuwait
 Kyrgyzstan
 Laos
 Latvia
@@ -126,7 +126,7 @@ Lithuania
 Luxembourg
 Macau
 Macedonia
-Madagasca
+Madagascar
 Malawi
 Malaysia
 Maldives
@@ -142,10 +142,10 @@ Micronesia
 Moldavia
 Monaco
 Mongolia
-Montserra
+Montserrat
 Morocco
 Mozambique
-Myanma
+Myanmar
 NATO (this was purged in 1996 - see hq.nato.int)
 Namibia
 Nauru
@@ -157,7 +157,7 @@ Neutral Zone
 New Caledonia (French)
 New Zealand
 Nicaragua
-Nige
+Niger
 Nigeria
 Niue
 Non-Profit Making Organisations (sic)
@@ -165,7 +165,7 @@ Norfolk Island
 North Korea
 Northern Mariana Islands
 Norway
-Old style Arpane
+Old style Arpanet
 Oman
 Pakistan
 Palau
@@ -179,7 +179,7 @@ Poland
 Polynesia (French)
 Portugal
 Puerto Rico
-Qata
+Qatar
 Reunion (French)
 Romania
 Russian Federation
@@ -227,7 +227,7 @@ Turkmenistan
 Turks and Caicos Islands
 Tuvalu
 USA Educational
-USA Governmen
+USA Government
 USA Military
 USA Minor Outlying Islands
 Uganda

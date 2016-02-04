@@ -3,7 +3,7 @@
 export LC_ALL=C
 
   sed -e '/^[a-z]/d' \
-      -e 's/[ \t\r]*$//' \
+      -e 's/[ ]*$//' \
       -e '/^$/d' \
       -e '/[Aa]ppendix/d' |
       sort
