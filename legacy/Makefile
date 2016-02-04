@@ -1,4 +1,20 @@
-report.html:	bin/allkeys.txt bin/report.py
+COUNTRIES=\
+	country-names/countries.txt \
+	country-of-birth/countries.txt \
+	current-location/countries.txt \
+	devtracker/countries.txt \
+	foreign-travel-advice/countries.txt \
+	geographical-names/countries.txt \
+	gpc/countries.txt \
+	hmrc/countries.txt \
+	marriage-abroad/countries.txt \
+	passports-beta/countries.txt \
+	registered-traveller/countries.txt \
+	trade-tariff/countries.txt \
+	visa-fees/countries.txt \
+	world/countries.txt
+
+report.html:	bin/allkeys.txt bin/report.py $(COUNTRIES)
 	bin/report.py > $@
 
 bin/allkeys.txt:
