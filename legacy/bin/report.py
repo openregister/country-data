@@ -8,15 +8,19 @@ names = {
         'title': 'Country names',
         'url': 'https://www.gov.uk/government/publications/country-names/country-names-the-permanent-committee-on-geographical-names-for-british-official-use',
         'publisher': 'foreign-commonwealth-office',
-        'format': 'HTML',
-        'fields': ["name", "slug"]
+        'format': 'HTML'
+    },
+    'country-names-mod': {
+        'title': 'Country names',
+        'url': 'https://www.gov.uk/government/publications/country-names',
+        'publisher': 'ministry-of-defence',
+        'format': 'XLSX'
     },
     'foreign-travel-advice': {
         'title': 'Foreign travel advice',
         'url': 'https://www.gov.uk/foreign-travel-advice',
         'publisher': 'foreign-commonwealth-office',
-        'format': 'HTML',
-        'fields': ["name", "slug", "filter-terms"]
+        'format': 'HTML'
     },
     'geographical-names': {
         'title': 'Geographical names and information',
