@@ -1,73 +1,73 @@
 country	start-date	end-date	name	official-name	citizen-names
-GB			United Kingdom	The United Kingdom of Great Britain and Northern Ireland	Briton, British citizen
+GB			United Kingdom	The United Kingdom of Great Britain and Northern Ireland	Briton;British citizen
 AF			Afghanistan	The Islamic Republic of Afghanistan	Afghan
-AL			Albania	The Republic of Albania	Albanian 
+AL			Albania	The Republic of Albania	Albanian
 DZ			Algeria	The People's Democratic Republic of Algeria	Algerian
 AD			Andorra	The Principality of Andorra	Andorran
-AO			Angola	The Republic of Angola	Angolan
-AG			Antigua and Barbuda	Antigua and Barbuda	Citizen of Antigua and Barbuda
-AR			Argentina	The Argentine Republic	Argentine; Argentinian
-AM			Armenia	The Republic of Armenia 	Armenian
-AU			Australia	The Commonwealth of Australia 	Australian 
+AO	1975-11-11		Angola	The Republic of Angola	Angolan
+AG	1981-11-01		Antigua and Barbuda	Antigua and Barbuda	Citizen of Antigua and Barbuda
+AR			Argentina	The Argentine Republic	Argentine;Argentinian
+AM	1991-09-21		Armenia	The Republic of Armenia	Armenian
+AU			Australia	The Commonwealth of Australia	Australian
 AT			Austria	The Republic of Austria	Austrian
-AZ			Azerbaijan	The Republic of Azerbaijan	Azerbaijani
-BS			Bahamas, The	The Commonwealth of The Bahamas	Bahamian
+AZ	1991-08-30		Azerbaijan	The Republic of Azerbaijan	Azerbaijani
+BS			Bahamas,The	The Commonwealth of The Bahamas	Bahamian
 BH			Bahrain	The Kingdom of Bahrain	Bahraini
 BD			Bangladesh	The People's Republic of Bangladesh	Bangladeshi
 BB			Barbados	Barbados	Barbadian
-BY			Belarus	The Republic of Belarus	Belarusian
+BY	1991-08-25		Belarus	The Republic of Belarus	Belarusian
 BE			Belgium	The Kingdom of Belgium	Belgian
-BZ			Belize	Belize	Citizen of Belize
+BZ	1981-09-21		Belize	Belize	Citizen of Belize
 BJ			Benin	The Republic of Benin	Beninese
 BT			Bhutan	The Kingdom of Bhutan	Bhutanese
 BO			Bolivia	The Plurinational State of Bolivia	Bolivian
-BA			Bosnia and Herzegovina	Bosnia and Herzegovina	Citizen of Bosnia and Herzegovina
+BA	1992-03-03		Bosnia and Herzegovina	Bosnia and Herzegovina	Citizen of Bosnia and Herzegovina
 BW			Botswana	The Republic of Botswana	Citizen of Botswana
 BR			Brazil	The Federative Republic of Brazil	Brazilian
-BN			Brunei	Brunei Darussalam	Citizen of Brunei
+BN	1984-01-01		Brunei	Brunei Darussalam	Citizen of Brunei
 BG			Bulgaria	The Republic of Bulgaria	Bulgarian
-BF			Burkina Faso	Burkina Faso	Burkinabe, Burkinan
+BF			Burkina Faso	Burkina Faso	Burkinabe;Burkinan
 MM			Burma	The Republic of the Union of Myanmar	Burmese
 BI			Burundi	The Republic of Burundi	Citizen of Burundi
 KH			Cambodia	The Kingdom of Cambodia	Cambodian
 CM			Cameroon	The Republic of Cameroon	Cameroonian
 CA			Canada	Canada	Canadian
-CV			Cape Verde	The Republic of Cabo Verde	Cape Verdean
+CV	1975-07-05		Cape Verde	The Republic of Cabo Verde	Cape Verdean
 CF			Central African Republic	The Central African Republic	Citizen of the Central African Republic
 TD			Chad	The Republic of Chad	Chadian
 CL			Chile	The Republic of Chile	Chilean
 CN			China	The People's Republic of China	Chinese
 CO			Colombia	The Republic of Colombia	Colombian
-KM			Comoros	The Union of the Comoros	Comoran
+KM	1975-07-06		Comoros	The Union of the Comoros	Comoran
 CG			Congo	The Republic of the Congo	Citizen of the Republic of the Congo
 CD			Congo (Democratic Republic)	The Democratic Republic of the Congo	Citizen of The Democratic Republic of the Congo
 CR			Costa Rica	The Republic of Costa Rica	Costa Rican
-HR			Croatia	The Republic of Croatia	Croatian
+HR	1991-06-25		Croatia	The Republic of Croatia	Croatian
 CU			Cuba	The Republic of Cuba	Cuban
 CY			Cyprus	The Republic of Cyprus	Cypriot
-CZ			Czech Republic	The Czech Republic	Czech
+CZ	1993-01-01		Czech Republic	The Czech Republic	Czech
 DK			Denmark	The Kingdom of Denmark	Dane
-DJ			Djibouti	The Republic of Djibouti	Djiboutian
-DM			Dominica	The Commonwealth of Dominica	Dominican
+DJ	1977-06-27		Djibouti	The Republic of Djibouti	Djiboutian
+DM	1978-11-03		Dominica	The Commonwealth of Dominica	Dominican
 DO			Dominican Republic	The Dominican Republic	Citizen of the Dominican Republic
 TL			East Timor	The Democratic Republic of Timor-Leste	East Timorese
 EC			Ecuador	The Republic of Ecuador	Ecuadorean
-EG			Egypt	The Arab Republic of Egypt	Egyptian 
+EG			Egypt	The Arab Republic of Egypt	Egyptian
 SV			El Salvador	The Republic of El Salvador	Salvadorean
 GQ			Equatorial Guinea	The Republic of Equatorial Guinea	Equatorial Guinean
-ER			Eritrea	The State of Eritrea	Eritrean
-EE			Estonia	The Republic of Estonia	Estonian
+ER	1993-05-24		Eritrea	The State of Eritrea	Eritrean
+EE	1991-08-20		Estonia	The Republic of Estonia	Estonian
 ET			Ethiopia	The Federal Democratic Republic of Ethiopia	Ethiopian
 FJ			Fiji	The Republic of Fiji	Citizen of Fiji
-FI			Finland	 The Republic of Finland	Finn
-FR			France	The French Republic	French citizen; Frenchman; Frenchwoman
+FI			Finland	The Republic of Finland	Finn
+FR			France	The French Republic	French citizen;Frenchman;Frenchwoman
 GA			Gabon	The Gabonese Republic	Gabonese
-GM			Gambia, The	The Republic of the Gambia	Gambian
-GE			Georgia	Georgia	Georgian
-DE			Germany	The Federal Republic of Germany	German
+GM			Gambia,The	The Republic of the Gambia	Gambian
+GE	1991-04-09		Georgia	Georgia	Georgian
+DE	1990-10-03		Germany	The Federal Republic of Germany	German
 GH			Ghana	The Republic of Ghana	Ghanaian
 GR			Greece	The Hellenic Republic	Greek
-GD			Grenada	Grenada	Grenadian
+GD	1974-02-07		Grenada	Grenada	Grenadian
 GT			Guatemala	The Republic of Guatemala	Guatemalan
 GN			Guinea	The Republic of Guinea	Guinean
 GW			Guinea-Bissau	The Republic of Guinea-Bissau	Citizen of Guinea-Bissau
@@ -79,53 +79,53 @@ IS			Iceland	The Republic of Iceland	Icelander
 IN			India	The Republic of India	Indian
 ID			Indonesia	The Republic of Indonesia	Indonesian
 IR			Iran	The Islamic Republic of Iran	Iranian
-IQ			Iraq	The Republic of Iraq 	Iraqi
-IE			Ireland	Ireland	Citizen of Ireland, Irish citizen
+IQ			Iraq	The Republic of Iraq	Iraqi
+IE			Ireland	Ireland	Citizen of Ireland;Irish citizen
 IL			Israel	The State of Israel	Israeli
 IT			Italy	The Italian Republic	Italian
 CI			Ivory Coast	The Republic of Cote D'Ivoire	Citizen of the Ivory Coast
 JM			Jamaica	Jamaica	Jamaican
 JP			Japan	Japan	Japanese
 JO			Jordan	The Hashemite Kingdom of Jordan	Jordanian
-KZ			Kazakhstan	The Republic of Kazakhstan	Kazakh
+KZ	1991-12-16		Kazakhstan	The Republic of Kazakhstan	Kazakh
 KE			Kenya	The Republic of Kenya	Kenyan
-KI			Kiribati 	The Republic of Kiribati	Citizen of Kiribati
-KP			North Korea	The Democratic People's Republic of Korea	Citizen of the Democratic People's Republic of Korea; Citizen of the DPRK
+KI	1979-07-12		Kiribati	The Republic of Kiribati	Citizen of Kiribati
+KP			North Korea	The Democratic People's Republic of Korea	Citizen of the Democratic People's Republic of Korea;Citizen of the DPRK
 KR			South Korea	The Republic of Korea	South Korean
-XK			Kosovo	The Republic of Kosovo	Kosovan
+			Kosovo	The Republic of Kosovo	Kosovan
 KW			Kuwait	The State of Kuwait	Kuwaiti
-KG			Kyrgyzstan	The Kyrgyz Republic	Kyrgyz
+KG	1991-08-31		Kyrgyzstan	The Kyrgyz Republic	Kyrgyz
 LA			Laos	The Lao People's Democratic Republic	Lao
-LV			Latvia	The Republic of Latvia	Latvian
+LV	1990-05-04		Latvia	The Republic of Latvia	Latvian
 LB			Lebanon	The Lebanese Republic	Lebanese
 LS			Lesotho	The Kingdom of Lesotho	Citizen of Lesotho
-LR			Liberia 	The Republic of Liberia	Liberian
+LR			Liberia	The Republic of Liberia	Liberian
 LY			Libya	Libya	Libyan
 LI			Liechtenstein	The Principality of Liechtenstein	Liechtenstein citizen
-LT			Lithuania	The Republic of Lithuania	Lithuanian
+LT	1990-03-11		Lithuania	The Republic of Lithuania	Lithuanian
 LU			Luxembourg	The Grand Duchy of Luxembourg	Luxembourger
-MK			Macedonia	The Republic of Macedonia	Macedonian
+MK	1991-09-08		Macedonia	The Republic of Macedonia	Macedonian
 MG			Madagascar	The Republic of Madagascar	Citizen of Madagascar
 MW			Malawi	The Republic of Malawi	Malawian
 MY			Malaysia	Malaysia	Citizen of Malaysia
 MV			Maldives	The Republic of Maldives	Maldivian
 ML			Mali	The Republic of Mali	Malian
 MT			Malta	The Republic of Malta	Maltese
-MH			Marshall Islands 	The Republic of the Marshall Islands	Marshall Islander
+MH	1986-10-21		Marshall Islands	The Republic of the Marshall Islands	Marshall Islander
 MR			Mauritania	The Islamic Republic of Mauritania	Mauritanian
 MU			Mauritius	The Republic of Mauritius	Mauritian
 MX			Mexico	The United Mexican States	Mexican
-FM			Micronesia	The Federated States of Micronesia	Micronesian
-MD			Moldova	The Republic of Moldova	Moldovan
+FM	1986-11-03		Micronesia	The Federated States of Micronesia	Micronesian
+MD	1991-08-27		Moldova	The Republic of Moldova	Moldovan
 MC			Monaco	The Principality of Monaco	Monegasque
 MN			Mongolia	Mongolia	Mongolian
 ME			Montenegro	Montenegro	Montenegrin
 MA			Morocco	The Kingdom of Morocco	Moroccan
-MZ			Mozambique	The Republic of Mozambique	Mozambican
-NA			Namibia	The Republic of Namibia	Namibian
+MZ	1975-06-25		Mozambique	The Republic of Mozambique	Mozambican
+NA	1980-03-21		Namibia	The Republic of Namibia	Namibian
 NR			Nauru	The Republic of Nauru	Nauruan
 NP			Nepal	The Federal Democratic Republic of Nepal	Nepalese
-NL			Netherlands	The Kingdom of the Netherlands	Dutch citizen; Dutchman; Dutchwoman
+NL			Netherlands	The Kingdom of the Netherlands	Dutch citizen;Dutchman;Dutchwoman
 NZ			New Zealand	New Zealand	New Zealander
 NI			Nicaragua	The Republic of Nicaragua	Nicaraguan
 NE			Niger	The Republic of Niger	Citizen of Niger
@@ -133,64 +133,69 @@ NG			Nigeria	The Federal Republic of Nigeria	Nigerian
 NO			Norway	The Kingdom of Norway	Norwegian
 OM			Oman	The Sultanate of Oman	Omani
 PK			Pakistan	The Islamic Republic of Pakistan	Pakistani
-PW			Palau	The Republic of Palau	Palauan
+PW	1994-10-01		Palau	The Republic of Palau	Palauan
 PA			Panama	The Republic of Panama	Panamanian
-PG			Papua New Guinea	The Independent State of Papua New Guinea	Papua New Guinean
+PG	1975-09-16		Papua New Guinea	The Independent State of Papua New Guinea	Papua New Guinean
 PY			Paraguay	The Republic of Paraguay	Paraguayan
 PE			Peru	The Republic of Peru	Peruvian
-PH			Philippines	The Republic of the Philippines	Filipino (male), Filipina (female)
+PH			Philippines	The Republic of the Philippines	Filipino;Filipina
 PL			Poland	The Republic of Poland	Pole
 PT			Portugal	The Portuguese Republic	Portuguese
 QA			Qatar	The State of Qatar	Qatari
 RO			Romania	Romania	Romanian
-RU			Russia	The Russian Federation	Russian
+RU	1991-12-25		Russia	The Russian Federation	Russian
 RW			Rwanda	The Republic of Rwanda	Rwandan
-KN			St Kitts and Nevis	The Federation of Saint Christopher and Nevis	Citizen of St Christopher (St Kitts) and Nevis
-LC			St Lucia	Saint Lucia	St Lucian
-VC			St Vincent	Saint Vincent and the Grenadines	Vincentian
+KN	1983-09-19		St Kitts and Nevis	The Federation of Saint Christopher and Nevis	Citizen of St Christopher (St Kitts) and Nevis
+LC	1979-02-22		St Lucia	Saint Lucia	St Lucian
+VC	1979-10-27		St Vincent	Saint Vincent and the Grenadines	Vincentian
 WS			Samoa	The Independent State of Samoa	Samoan
 SM			San Marino	The Republic of San Marino	Citizen of San Marino
-ST			Sao Tome and Principe	The Democratic Republic of Sao Tome and Principe	Citizen of Sao Tome and Principe
+ST	1975-07-12		Sao Tome and Principe	The Democratic Republic of Sao Tome and Principe	Citizen of Sao Tome and Principe
 SA			Saudi Arabia	The Kingdom of Saudi Arabia	Saudi Arabian
 SN			Senegal	The Republic of Senegal	Senegalese
 RS			Serbia	The Republic of Serbia	Serbian
-SC			Seychelles	The Republic of Seychelles	Citizen of Seychelles
+SC	1976-06-29		Seychelles	The Republic of Seychelles	Citizen of Seychelles
 SL			Sierra Leone	The Republic of Sierra Leone	Sierra Leonean
 SG			Singapore	The Republic of Singapore	Singaporean
-SK			Slovakia	The Slovak Republic	Slovak
-SI			Slovenia	The Republic of Slovenia	Slovene
-SB			Solomon Islands	Solomon Islands	Solomon Islander
+SK	1993-01-01		Slovakia	The Slovak Republic	Slovak
+SI	1991-06-25		Slovenia	The Republic of Slovenia	Slovene
+SB	1978-07-07		Solomon Islands	Solomon Islands	Solomon Islander
 SO			Somalia	Federal Republic of Somalia	Somali
 ZA			South Africa	The Republic of South Africa	South African
 SS			South Sudan	The Republic of South Sudan	South Sudanese
-ES			Spain	The Kingdom of Spain	Spaniard, Spanish citizen
+ES			Spain	The Kingdom of Spain	Spaniard;Spanish citizen
 LK			Sri Lanka	The Democratic Socialist Republic of Sri Lanka	Citizen of Sri Lanka
 SD			Sudan	The Republic of the Sudan	Sudanese
-SR			Suriname	The Republic of Suriname	Surinamer
+SR	1975-11-25		Suriname	The Republic of Suriname	Surinamer
 SZ			Swaziland	The Kingdom of Swaziland	Swazi
 SE			Sweden	The Kingdom of Sweden	Swede
 CH			Switzerland	The Swiss Confederation	Swiss
 SY			Syria	The Syrian Arab Republic	Syrian
-TJ			Tajikistan	The Republic of Tajikistan	Tajik
+TJ	1991-09-09		Tajikistan	The Republic of Tajikistan	Tajik
 TZ			Tanzania	The United Republic of Tanzania	Tanzanian
 TH			Thailand	The Kingdom of Thailand	Thai
 TG			Togo	The Togolese Republic	Togolese
 TO			Tonga	The Kingdom of Tonga	Tongan
 TT			Trinidad and Tobago	The Republic of Trinidad and Tobago	Trinidad and Tobago citizen
-TN			Tunisia	The Tunisian Republic 	Tunisian
+TN			Tunisia	The Tunisian Republic	Tunisian
 TR			Turkey	The Republic of Turkey	Turk
-TM			Turkmenistan	Turkmenistan	Turkmen
-TV			Tuvalu	Tuvalu	Tuvaluan
+TM	1991-10-27		Turkmenistan	Turkmenistan	Turkmen
+TV	1978-10-01		Tuvalu	Tuvalu	Tuvaluan
 UG			Uganda	The Republic of Uganda	Ugandan
-UA			Ukraine	Ukraine	Ukrainian
+UA	1991-08-24		Ukraine	Ukraine	Ukrainian
 AE			United Arab Emirates	The United Arab Emirates	Citizen of the United Arab Emirates
 US			United States	The United States of America	United States citizen
-UY			Uruguay 	The Oriental Republic of Uruguay	Uruguayan
-UZ			Uzbekistan	The Republic of Uzbekistan	Uzbek
-VU			Vanuatu	The Republic of Vanuatu	Citizen of Vanuatu
+UY			Uruguay	The Oriental Republic of Uruguay	Uruguayan
+UZ	1991-09-01		Uzbekistan	The Republic of Uzbekistan	Uzbek
+VU	1980-07-30		Vanuatu	The Republic of Vanuatu	Citizen of Vanuatu
 VA			Vatican City	The Vatican City	Vatican citizen
 VE			Venezuela	The Bolivarian Republic of Venezuela	Venezuelan
 VN			Vietnam	The Socialist Republic of Vietnam	Vietnamese
-YE			Yemen	The Republic of Yemen	Yemeni
+YE	1990-05-22		Yemen	The Republic of Yemen	Yemeni
 ZM			Zambia	The Republic of Zambia	Zambian
-ZW			Zimbabwe	The Republic of Zimbabwe	Zimbabwean
+ZW	1980-04-18		Zimbabwe	The Republic of Zimbabwe	Zimbabwean
+SU		1991-12-25	USSR	Union of Soviet Socialist Republics	Soviet citizen
+DE		1990-10-02	West Germany	Federal Republic of Germany	West German
+DD		1990-10-02	East Germany	Germany Democratic Republic	East German
+YU		1992-04-28	Yugoslavia	Socialist Federal Republic of Yugoslavia	Yugoslavian
+CS		1992-12-31	Czechoslovakia	Czechoslovak Republic	Czechoslovak 
