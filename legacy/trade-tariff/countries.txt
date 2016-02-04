@@ -1,11 +1,11 @@
-Abu Dhabi 1
+Abu Dhabi 
 Afghanistan
-Ajman 1
-Aland Islands 2
-Alaska 3
+Ajman 
+Aland Islands 
+Alaska 
 Albania
 Algeria
-American Polynesia and Oceania 4
+American Polynesia and Oceania 
 American Samoa
 Andorra
 Angola (including Cabinda)
@@ -15,15 +15,15 @@ Antigua and Barbuda
 Argentina
 Armenia
 Aruba
-Ascension 5
+Ascension 
 Australia
-Australian Antarctic Territory 6
+Australian Antarctic Territory 
 Austria (excluding Jungholz and Mittelberg)
 Azerbaijan
-Azores 7
+Azores 
 Bahamas
 Bahrain
-Baker Island 4
+Baker Island 
 Bangladesh (formerly East Pakistan)
 Barbados
 Belarus
@@ -38,8 +38,7 @@ Bosnia and Herzegovina
 Botswana
 Bouvet Island
 Brazil
-British Antarctic Territory 6
-British Indian Ocean Territory
+British Antarctic Territory 
 British Indian Ocean Territory
 British Virgin Islands
 Brunei
@@ -51,7 +50,7 @@ Cameroon
 Canada
 Canary Islands
 Cape Verde
-Caroline Islands 4
+Caroline Islands 
 Cayman Islands
 Central African Republic
 Ceuta
@@ -73,7 +72,7 @@ Continental Shelf (NW European) - Netherlands Sector
 Continental Shelf (NW European) - Norwegian Sector
 Continental Shelf (NW European) - United Kingdom Sector
 Cook Islands
-Corn Islands 8
+Corn Islands 
 Costa Rica
 Cote d’lvoire
 Croatia
@@ -82,11 +81,11 @@ Curacao
 Cyprus
 Czech Republic
 Denmark
-Desirade 9
+Desirade 
 Djibouti
 Dominica
 Dominican Republic
-Dubai 1
+Dubai 
 E East Timor
 Ecuador (including Galapagos Islands)
 Egypt
@@ -101,39 +100,38 @@ Faroe Islands
 Fiji
 Finland (including Aland Islands)
 France (including Monaco)
-French Antarctic Territory 6
+French Antarctic Territory 
 French Guiana
 French Polynesia
 French Southern Territory
-Fujairah 1
+Fujairah 
 Gabon
 Gambia
-Gaza and Jericho 11
+Gaza and Jericho 
 Georgia
 Germany (including the island of Heligoland: excluding the territory of Busingen)
 Ghana
 Gibraltar
-Gough 5
+Gough 
 Greece
 Greenland
 Grenada (including Southern Grenadines)
 Guadeloupe´, Maria-Galante, St Berthelemy
 Guam
 Guatemala
-Guernsey 12
+Guernsey 
 Guinea
 Guinea-Bissau (formerly Portuguese Guinea)
 Guyana
 Haiti
-Haiti
-Hawaii 3
+Hawaii 
 Heard and McDonald lslands
 Honduras (including Swan Islands)
 Hong Kong
-Howland Islands 4
+Howland Islands 
 Hungary
 Iceland
-Iles des Saintes 9
+Iles des Saintes 
 India
 Indonesia
 Iran
@@ -144,14 +142,14 @@ Italy (including Livigno; excluding the Municipality of Campione d’Italia)
 Ivory Coast (Cote d’Ivoire)
 Jamaica
 Japan
-Jarvis Islands 4
-Jersey 12
-Johnston Atoll 4
+Jarvis Islands 
+Jersey 
+Johnston Atoll 
 Jordan
 Kazakhstan
-Keeling Islands (Cocos) 13
+Keeling Islands (Cocos) 
 Kenya
-Kingman Reef 4
+Kingman Reef 
 Kiribati
 Korea, North
 Korea, South
@@ -168,16 +166,16 @@ Liechtenstein
 Lithuania
 Luxembourg
 Macao
-Macedonia (F.Y.R.) 14
+Macedonia (F.Y.R.) 
 Madagascar (Malgasy Republic)
-Madeira 7
+Madeira 
 Malawi
 Malaysia (Peninsular Malaysia and Eastern Malaysia (Labuanm Sabah and Sarawak))
 Maldives
 Mali
 Malta (including Gozo and Comino)
 Man, Isle of (freeport)
-Maria-Galante 9
+Maria-Galante 
 Marshall Islands
 Martinique
 Mauritania
@@ -186,11 +184,11 @@ Mayotte (Grand Terre and Pamanzi)
 Melilla (including Penon de Velez de la Gomera, Penon de Alhucemas and the Chafarinas Islands)
 Mexico
 Micronesia (Federated States of)
-Midway Island 4
+Midway Island 
 Moldova, Rep of
-Monaco 15
+Monaco 
 Mongolia
-Montenegro 16
+Montenegro 
 Montserrat
 Morocco
 Mozambique
@@ -213,7 +211,7 @@ Occupied Palestinian Territory (West Bank (including East Jerusalem) and Gaza St
 Oman (formerly Muscat and Oman)
 Pakistan
 Palau
-Palra Island 4
+Palra Island 
 Panama (including the former Canal Zone)
 Papua New Guinea
 Paraguay
@@ -222,25 +220,25 @@ Philippines
 Pitcairn Island
 Poland
 Portugal (including Azores and Madeira)
-Puerto Rico 3
+Puerto Rico 
 Qatar
-Ras al Khaimah 1
+Ras al Khaimah 
 Reunion
 Romania
-Ross Dependency 6
+Ross Dependency 
 Russia
 Rwanda
 Saba
-Sabah 17
+Sabah 
 Samoa (formerly Western Samoa)
 San Marino
 Sao Tome and Principe
-Sarawak 17
+Sarawak 
 Saudi Arabia
 Senegal
 Serbia
 Seychelles
-Sharjah 1
+Sharjah 
 Sierra Leone
 Singapore
 Slovakia
@@ -252,19 +250,19 @@ South Georgia and South Sandwich Islands
 South Sudan
 Spain (including Balearic Islands)
 Sri Lanka (formerly Ceylon)
-St Barthelemy 9
-St Berthelemy 9
+St Barthelemy 
+St Berthelemy 
 St Eustatius
 St Helena (including Ascension Island and Tristan da Cunha Islands)
 St Kitts and Nevis
 St Lucia
-St Maarten (North) 9
+St Maarten (North) 
 St Maarten (South)
 St Pierre and Miquelon
 St Vincent and the Grenadines
 Surinam
-Svalbard Archipelago (including Spitsbergen and Jan Mayen) 18
-Swan Islands 19
+Svalbard Archipelago (including Spitsbergen and Jan Mayen) 
+Swan Islands 
 Swaziland (Ngwame)
 Sweden
 Switzerland (including the German territory Busingen and the Italian Municipality of Campione d’Italia)
@@ -277,7 +275,7 @@ Togo
 Tokelau Islands
 Tonga
 Trinidad and Tobago
-Tristan da Cunha 5
+Tristan da Cunha 
 Tunisia
 Turkey
 Turkmenistan
@@ -285,7 +283,7 @@ Turks and Caicos Islands
 Tuvalu
 Uganda
 Ukraine
-Umm al Qaiwain 1
+Umm al Qaiwain 
 United Arab Emirates (Abu Dhabi, Ajman, Dubai, Fujaairah, Ras al Khaimah, Sharjah and Umm al Qaiwain)
 United Kingdom (Great Britain and Northern Ireland)
 United States minor outlying islands (including Baker Island, Howland Island, Jarvis Island, Johnson Atoll, Kingman Reef, Midway Islands, Navassa Island, Palmyra Atoll and Wake Island)
@@ -297,7 +295,7 @@ Vatican City
 Venezuela
 Vietnam
 Virgin Islands of USA
-Wake Island 4
+Wake Island 
 Wallis and Futuna Islands
 Western Sahara
 Yemen
