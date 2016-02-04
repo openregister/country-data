@@ -93,54 +93,121 @@ names = {
     }
 }
 
-issues = [
-    { 'countries': [
-        "Åland Islands",
-        "Aland Islands 2",
-        "Finland (including Aland Islands)"
-    ]},
-    { 'countries': [
-        "Korea (North)",
-        "Korea (South)",
-        "Korea, Democratic People's Republic of",
-        "Korea, North",
-        "Korea, Republic of",
-        "Korea, South",
-        "DPR Korea",
-        "North Korea",
-        "South Korea"
-    ]},
-    { 'countries': [
-        "Occ. Palestinian Territories",
-        "Occupied Palestinian Territories (OPT)",
-        "Occupied Palestinian Territory (West Bank (including East Jerusalem) and Gaza Strip)",
-        "Palestinian Occupied Territories",
-        "Palestinian Territory, Occupied",
-        "The Occupied Palestinian Territories"
-    ]},
-    { 'countries': [
-        "Reunion",
-        "Réunion",
-        "Reunion"
-    ]},
-    { 'countries': [
-        "Tanzania",
-        "Tanzania (Tanganyika, Zanzibar, Pemba)",
-        "Tanzania, United Rep. of",
-        "Tanzania, United Republic of"
-    ]},
-    { 'countries': [
-        "Vatican City",
-        "Vatican City State",
-        "Holy See",
-        "Holy See (Vatican City State"
-    ]},
-    { 'countries': [
-        "Heard and McDonald Islands",
-        "Heard and McDonald lslands",
-        "Heard Island and McDonald Islands"
+issues = {
+    'AX': {
+        'countries': [
+            "Åland Islands",
+            "Aland Islands",
+            "Finland (including Aland Islands)"
+        ]
+    },
+    'HM': {
+        'countries': [
+            "Heard and McDonald Islands",
+            "Heard and McDonald lslands",
+            "Heard Island and McDonald Islands"
+        ]
+    },
+    'HK': {
+        'countries': [
+            "Hong Kong",
+            "Hong Kong Special Administrative"
+        ]
+    },
+    'CI': {
+        'countries': [
+            "Ivory Coast",
+            "Ivory Coast (Cote D'Ivoire)",
+            "Ivory Coast (Cote d’Ivoire)",
+            "Cote d'Ivoire",
+            "Côte d'Ivoire",
+            "Cote d’Ivoire",
+            "Cote d’lvoire"
+        ]
+    },
+    'KP': {
+        'countries': [
+            "Korea (North)",
+            "Korea, Democratic People's Republic of",
+            "Korea, North",
+            "Korea, Republic of",
+            "Korea, South",
+            "DPR Korea",
+            "North Korea",
+        ]
+    },
+    'KR': { 
+        'countries': [
+            "Korea (South)",
+            "Korea, Republic of",
+            "Korea, South",
+            "South Korea"
+        ]
+    },
+    'MM': {
+        'countries': [
+            "Burma",
+            "Myanmar",
+            "Myanmar (Burma)"
+        ]
+    },
+    'PL': {
+        'countries': [
+            "Occ. Palestinian Territories",
+            "Occupied Palestinian Territories (OPT)",
+            "Occupied Palestinian Territory (West Bank (including East Jerusalem) and Gaza Strip)",
+            "Palestinian Occupied Territories",
+            "Palestinian Territory, Occupied",
+            "The Occupied Palestinian Territories"
+        ]
+    },
+    'RE': {
+        'countries': [
+            "Reunion",
+            "Réunion",
+            "Reunion"
+        ]
+    },
+    'PM': {
+        'countries': [
+            "St Pierre & Miquelon",
+            "St Pierre and Miquelon"
+        ]
+    },
+    'TZ': {
+        'countries': [
+            "Tanzania",
+            "Tanzania (Tanganyika, Zanzibar, Pemba)",
+            "Tanzania, United Rep. of",
+            "Tanzania, United Republic of"
+        ]
+    },
+    'VA': {
+        'countries': [
+            "Vatican City",
+            "Vatican City State",
+            "Holy See",
+            "Holy See (Vatican City State)"
+        ]
+    },
+    'VG': {
+        'countries': [
+            "British Virgin Islands",
+            "Virgin Islands (British)",
+            "Virgin Islands, British",
+        ]
+    },
+    'VI': {
+        'countries': [
+            "Virgin Islands (USA)",
+            "Virgin Islands of USA",
+            "Virgin Islands, U.S."
+        ]
+    },
+    'YU': { 'countries': [
+        "Yugoslavia"
     ]}
-]
+}
 
 by_country = {}
 
@@ -185,7 +252,7 @@ table {
 th, td {
     text-align: left;
 }
-.count, .issue {
+.count {
     text-align: right;
 }
 td {
@@ -280,11 +347,10 @@ print("""
 """)
 
 n = 0
-for issue in issues:
-    countries_list = "</span> <span>".join([country for country in issue['countries']])
-    n = n + 1
-    print("<tr id='issue_%s'>" % (n))
-    print("<td class='issue'>%s</td>" % (n))
+for code in sorted(issues):
+    countries_list = "</span> <span>".join([country for country in issues[code]['countries']])
+    print("<tr id='issue_%s'>" % (code))
+    print("<td class='issue'>%s</td>" % (code))
     print("<td class='countries'><span>%s</span></td>" % (countries_list))
     print("</tr>")
 
