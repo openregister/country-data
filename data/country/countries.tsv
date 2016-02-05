@@ -92,7 +92,7 @@ KE			Kenya	The Republic of Kenya	Kenyan
 KI	1979-07-12		Kiribati	The Republic of Kiribati	Citizen of Kiribati
 KP			North Korea	The Democratic People's Republic of Korea	Citizen of the Democratic People's Republic of Korea;Citizen of the DPRK
 KR			South Korea	The Republic of Korea	South Korean
-			Kosovo	The Republic of Kosovo	Kosovan
+XK			Kosovo	The Republic of Kosovo	Kosovan
 KW			Kuwait	The State of Kuwait	Kuwaiti
 KG	1991-08-31		Kyrgyzstan	The Kyrgyz Republic	Kyrgyz
 LA			Laos	The Lao People's Democratic Republic	Lao
@@ -162,7 +162,7 @@ SI	1991-06-25		Slovenia	The Republic of Slovenia	Slovene
 SB	1978-07-07		Solomon Islands	Solomon Islands	Solomon Islander
 SO			Somalia	Federal Republic of Somalia	Somali
 ZA			South Africa	The Republic of South Africa	South African
-SS			South Sudan	The Republic of South Sudan	South Sudanese
+SS	2011-07-09		South Sudan	The Republic of South Sudan	South Sudanese
 ES			Spain	The Kingdom of Spain	Spaniard;Spanish citizen
 LK			Sri Lanka	The Democratic Socialist Republic of Sri Lanka	Citizen of Sri Lanka
 SD			Sudan	The Republic of the Sudan	Sudanese
