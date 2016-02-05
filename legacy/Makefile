@@ -1,4 +1,7 @@
 COUNTRIES=\
+../data/country/countries.tsv \
+../data/territory/territories.tsv \
+../data/uk/uk.tsv \
 	country-names/countries.txt \
 	country-of-birth/countries.txt \
 	current-location/countries.txt \

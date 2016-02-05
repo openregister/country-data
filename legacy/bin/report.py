@@ -5,7 +5,7 @@ import csv
 from pyuca import Collator
 c = Collator("bin/allkeys.txt")
 
-records = {}
+codes = {}
 
 lists = {
     'country': {
@@ -277,7 +277,7 @@ for name in lists:
         names = []
         official_names = []
         for row in csv.DictReader(open(list['path']), delimiter='	'):
-            records[name + ":" + row[name]] = row
+            codes[row[name]] = row
             names.append(row['name'])
             official_names.append(row['official-name'])
 
@@ -285,6 +285,10 @@ for name in lists:
         country_names(name + "-official", official_names)
 
     lists[name] = list
+
+for code in codes:
+    by_country[codes[code]['name']]['code'] = code
+    by_country[codes[code]['official-name']]['code'] = code
 
 def name_link(name):
     return "<a href='#%s' class='_%s'>%s</a>" % (name, name, name)
@@ -323,10 +327,13 @@ td {
     margin-right: 1.2em;
 }
 
-#country-register .name,
-.country-register .country {
-    color: white;
-    background-color: #005ea5;
+tr.country,
+tr.country-official,
+tr.territory,
+tr.territory-official,
+tr.uk,
+tr.uk-official {
+    background-color: #e2e2e2;
 }
 
 </style>
@@ -365,11 +372,12 @@ print("""
 </tbody>
 </table>
 
-<h2>Countries</h2>
-<table id="countries" class="tablesorter">
+<h2>Names</h2>
+<table id="names" class="tablesorter">
 <thead>
     <tr>
         <th class='country'>Country</th>
+        <th class='name'>Name</th>
         <th>Lists</th>
         <th class='count'>Count</th>
     </tr>
@@ -381,8 +389,12 @@ for country in sorted(by_country, key=c.sort_key):
     classes = " ".join([name for name in by_country[country]['names']])
     names_list = " ".join([name_link(name) for name in by_country[country]['names']])
 
+    if not 'code' in by_country[country]:
+        by_country[country]['code'] = ''
+
     print("<tr class='%s'>" % (classes))
-    print("<td class='country'>%s</td>" % (country))
+    print("<td class='country'>%s</td>" % (by_country[country]['code']))
+    print("<td class='name'>%s</td>" % (country))
     print("<td class='names'>%s</td>" % (names_list))
     print("<td class='count'>%s</td>" % (by_country[country]['count']))
     print("</tr>")
