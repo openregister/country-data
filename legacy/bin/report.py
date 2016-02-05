@@ -1,9 +1,34 @@
 #!/usr/bin/env python3
 
+import csv
+
 from pyuca import Collator
 c = Collator("bin/allkeys.txt")
 
-names = {
+records = {}
+
+lists = {
+    'country': {
+        'title': 'Country register',
+        'url': 'http://country.openregister.org',
+        'publisher': 'foreign-commonwealth-office',
+        'format': 'register',
+        'path': '../data/country/countries.tsv'
+    },
+    'territory': {
+        'title': 'Territory register',
+        'url': 'http://territory.openregister.org',
+        'publisher': 'foreign-commonwealth-office',
+        'format': 'register',
+        'path': '../data/territory/territories.tsv'
+    },
+    'uk': {
+        'title': 'UK register',
+        'url': 'http://uk.openregister.org',
+        'publisher': 'cabinet-office',
+        'format': 'register',
+        'path': '../data/uk/uk.tsv'
+    },
     'country-names': {
         'title': 'Country names',
         'url': 'https://www.gov.uk/government/publications/country-names/country-names-the-permanent-committee-on-geographical-names-for-british-official-use',
@@ -24,6 +49,12 @@ names = {
     },
     'geographical-names': {
         'title': 'Geographical names and information',
+        'url': 'https://www.gov.uk/government/publications/geographical-names-and-information',
+        'publisher': 'foreign-commonwealth-office',
+        'format': 'CSV'
+    },
+    'overseas-territories': {
+        'title': 'Overseas territories geographical names and information',
         'url': 'https://www.gov.uk/government/publications/geographical-names-and-information',
         'publisher': 'foreign-commonwealth-office',
         'format': 'CSV'
@@ -215,10 +246,10 @@ issues = {
 
 by_country = {}
 
-for name in names:
+def country_names(name, lines):
     count = 0
-    path = name + '/countries.txt'
-    for line in open(path):
+
+    for line in lines:
         count = count + 1
         country = line.strip()
         if not country in by_country:
@@ -229,10 +260,31 @@ for name in names:
         by_country[country]['count'] = by_country[country]['count'] + 1
         by_country[country]['names'].append(name)
 
-    names[name]['count'] = count
-    if not 'data' in names[name]:
-        names[name]['data'] = names[name]['url']
+    return count
 
+
+for name in lists:
+    list = lists[name]
+    if not 'data' in list:
+        list['data'] = list['url']
+
+    if not 'path' in list:
+        list['path'] = name + '/countries.txt'
+
+    if (list['format'] != 'register'):
+        list['count'] = country_names(name, open(list['path']))
+    else:
+        names = []
+        official_names = []
+        for row in csv.DictReader(open(list['path']), delimiter='	'):
+            records[name + ":" + row[name]] = row
+            names.append(row['name'])
+            official_names.append(row['official-name'])
+
+        list['count'] = country_names(name, names)
+        country_names(name + "-official", official_names)
+
+    lists[name] = list
 
 def name_link(name):
     return "<a href='#%s' class='_%s'>%s</a>" % (name, name, name)
@@ -271,8 +323,8 @@ td {
     margin-right: 1.2em;
 }
 
-#geographical-names .name,
-.geographical-names .country {
+#country-register .name,
+.country-register .country {
     color: white;
     background-color: #005ea5;
 }
@@ -298,15 +350,15 @@ td {
 <tbody>
 """)
 
-for name in sorted(names):
+for name in sorted(lists):
     txt = "%s/countries.txt" % (name)
     print("<tr id='%s'>" % (name))
     print("<td><input type='checkbox' name='%s' checked></td>" % (name))
     print("<td class='name'>%s</td>" % (name))
-    print("<td><a href='%s'>%s</a></td>" % (names[name]['url'], names[name]['title']))
-    print("<td>%s</td>" % (names[name]['publisher']))
-    print("<td><a href='%s'>%s</a></td>" % (names[name]['data'], names[name]['format']))
-    print("<td class='count'><a href='%s'>%s</a></td>" % (txt, names[name]['count']))
+    print("<td><a href='%s'>%s</a></td>" % (lists[name]['url'], lists[name]['title']))
+    print("<td>%s</td>" % (lists[name]['publisher']))
+    print("<td><a href='%s'>%s</a></td>" % (lists[name]['data'], lists[name]['format']))
+    print("<td class='count'><a href='%s'>%s</a></td>" % (txt, lists[name]['count']))
     print("</tr>")
 
 print("""
