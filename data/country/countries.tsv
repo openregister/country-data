@@ -1,9 +1,4 @@
 country	start-date	end-date	name	official-name	citizen-names
-SU              1991-12-25      USSR    Union of Soviet Socialist Republics     Soviet citizen
-DE              1990-10-02      West Germany    Federal Republic of Germany     West German
-DD              1990-10-02      East Germany    Germany Democratic Republic     East German
-YU              1992-04-28      Yugoslavia      Socialist Federal Republic of Yugoslavia        Yugoslavian
-CS              1992-12-31      Czechoslovakia  Czechoslovak Republic   Czechoslovak
 GB			United Kingdom	The United Kingdom of Great Britain and Northern Ireland	Briton;British citizen
 AF			Afghanistan	The Islamic Republic of Afghanistan	Afghan
 AL			Albania	The Republic of Albania	Albanian
@@ -199,3 +194,8 @@ VN			Vietnam	The Socialist Republic of Vietnam	Vietnamese
 YE	1990-05-22		Yemen	The Republic of Yemen	Yemeni
 ZM			Zambia	The Republic of Zambia	Zambian
 ZW	1980-04-18		Zimbabwe	The Republic of Zimbabwe	Zimbabwean
+SU		1991-12-25	USSR	Union of Soviet Socialist Republics	Soviet citizen
+DE		1990-10-02	West Germany	Federal Republic of Germany	West German
+DD		1990-10-02	East Germany	Germany Democratic Republic	East German
+YU		1992-04-28	Yugoslavia	Socialist Federal Republic of Yugoslavia	Yugoslavian
+CS		1992-12-31	Czechoslovakia	Czechoslovak Republic	Czechoslovak 
