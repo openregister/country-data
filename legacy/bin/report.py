@@ -351,14 +351,14 @@ td {
 """)
 
 for name in sorted(lists):
-    txt = "%s/countries.txt" % (name)
+    list = lists[name]
     print("<tr id='%s'>" % (name))
     print("<td><input type='checkbox' name='%s' checked></td>" % (name))
     print("<td class='name'>%s</td>" % (name))
-    print("<td><a href='%s'>%s</a></td>" % (lists[name]['url'], lists[name]['title']))
-    print("<td>%s</td>" % (lists[name]['publisher']))
-    print("<td><a href='%s'>%s</a></td>" % (lists[name]['data'], lists[name]['format']))
-    print("<td class='count'><a href='%s'>%s</a></td>" % (txt, lists[name]['count']))
+    print("<td><a href='%s'>%s</a></td>" % (list['url'], list['title']))
+    print("<td>%s</td>" % (list['publisher']))
+    print("<td><a href='%s'>%s</a></td>" % (list['data'], list['format']))
+    print("<td class='count'><a href='%s'>%s</a></td>" % (list['path'], list['count']))
     print("</tr>")
 
 print("""
