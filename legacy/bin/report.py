@@ -434,12 +434,12 @@ print("""
 <script>
 $(function() {
     $("#lists").tablesorter({theme : 'blue'});
-    $("#countries").tablesorter({theme : 'blue'});
+    $("#names").tablesorter({theme : 'blue'});
     $("#issues").tablesorter({theme : 'blue'});
     $('input').each(function(){
         $(this).click(function () {
             $("._" + this.name).toggle();
-            $('#countries td.names').each(function () {
+            $('#names td.names').each(function () {
                 $(this).parent().show();
                 var count = $(this).children(':visible').length;
                 if (count == 0) {
