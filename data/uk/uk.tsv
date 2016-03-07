@@ -1,8 +1,21 @@
-uk	start-date	end-date	name	official-name	citizen-names
-ENG			England	England	English
-SCT			Scotland	Scotland	Scottish
-WLS			Wales	Wales	Welsh
-NIR			Northern Ireland	Northern Ireland	Northern Irish
-GBG			Guernsey	Bailiwick of Guernsey	
-JEY			Jersey	Bailiwick of Jersey	
-GBM			Isle of Man	Isle of Man	
+uk	start-date	end-date	name	official-name	citizen-names	text
+GBN			Great Britain	Great Britain	Briton;British citizen	
+ENG			England	England	English	Country
+SCT			Scotland	Scotland	Scottish	Country
+WLS			Wales	Wales	Welsh	Country
+NIR			Northern Ireland	Northern Ireland	Northern Irish	Province
+AX00			Akrotiri	Akrotiri		United Kingdom Overseas Territory
+AI			Anguilla	Anguilla	Anguillan	United Kingdom Overseas Territory
+BM			Bermuda	Bermuda	Bermudan	United Kingdom Overseas Territory
+ATB			British Antarctic Territory	British Antarctic Territory		United Kingdom Overseas Territory
+IO			British Indian Ocean Territory	The British Indian Ocean Territory		United Kingdom Overseas Territory
+VG			The Virgin Islands	British Virgin Islands	British Virgin Islander	United Kingdom Overseas Territory
+KY			Cayman Islands	Cayman Islands	Cayman Islander;Caymanian	United Kingdom Overseas Territory
+DX00			Dhekelia	Dhekelia		United Kingdom Overseas Territory
+FK			Falkland Islands	Falkland Islands	Falkland Islander	United Kingdom Overseas Territory
+GI			Gibraltar	Gibraltar	Gibraltarian	United Kingdom Overseas Territory
+MS			Montserrat	Montserrat	Montserratian;Montserratian	United Kingdom Overseas Territory
+PN			Pitcairn, Henderson, Ducie and Oeno Islands	Pitcairn, Henderson, Ducie and Oeno Islands	Pitcairn Islander;Pitcairner	United Kingdom Overseas Territory
+SH			St Helena, Ascension and Tristan da Cunha	St Helena, Ascension and Tristan da Cunha	St Helenian;Tristanian	United Kingdom Overseas Territory
+GS			South Georgia and South Sandwich Islands	South Georgia and the South Sandwich Islands		United Kingdom Overseas Territory
+TC			Turks and Caicos Islands	Turks and Caicos Islands	Turks and Caicos Islander	United Kingdom Overseas Territory
