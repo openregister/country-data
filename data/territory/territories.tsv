@@ -2,13 +2,13 @@ territory	start-date	end-date	name	official-name	citizen-names	text
 GF			French Guiana	French Guiana		Overseas department of France
 GP			Guadeloupe	Guadeloupe		Overseas department of France
 MQ			Martinique	Martinique		Overseas department of France
-RE			Réunion	Réunion		Overseas department of France
+RE			RÃ©union	RÃ©union		Overseas department of France
 YT			Mayotte	Mayotte		Overseas department of France
 PF			French Polynesia	French Polynesia		Overseas collectivity of France
 PM			Saint Pierre and Miquelon	Saint Pierre and Miquelon		Overseas collectivity of France
 WF			Wallis and Futuna	Wallis and Futuna		Overseas collectivity of France
 MF			Saint Martin	Saint Martin		Overseas collectivity of France
-BL			Saint Barthélemy	Saint Barthélemy		Overseas collectivity of France
+BL			Saint BarthÃ©lemy	Saint BarthÃ©lemy		Overseas collectivity of France
 NC			New Caledonia	New Caledonia		Special collectivity of France
 TF			French Southern Territories	French Southern Territories		
 HK			Hong Kong	Hong Kong Special Administrative Region		
@@ -17,7 +17,7 @@ TW			Taiwan	Taiwan	Taiwanese
 EH			Western Sahara	Western Sahara		
 PS			Occupied Palestinian Territories	The Occupied Palestinian Territories	Palestinian;Israeli
 AW			Aruba	Aruba		Constituent country of the Kingdom of the Netherlands
-CW			Curaçao	Curaçao		Constituent country of the Kingdom of the Netherlands
+CW			CuraÃ§ao	CuraÃ§ao		Constituent country of the Kingdom of the Netherlands
 BQ			Bonaire, Sint Eustatius and Saba	Bonaire, Sint Eustatius and Saba		Special municipality of the Netherlands
 SX			Sint Maarten (Dutch part)	Sint Maarten (Dutch part)		Constituent country of the Kingdom of the Netherlands
 GU			Guam	Territory of Guam		Unincorporated and organized territory of the United States
@@ -33,5 +33,5 @@ NF			Norfolk Island	Territory of Norfolk Island		External territory of Australia
 HM			Heard Island and McDonald Islands	Territory of Heard Island and McDonald Islands		External territory of Australia
 FO			Faroe Islands	Faroe Islands		Autonomous country within the Danish Realm
 GL			Greenland	Greenland		Autonomous country within the Danish Realm
-AX			Åland Islands	Åland Islands		Autonomous region of Finland
+AX			Ã…land Islands	Ã…land Islands		Autonomous region of Finland
 SJ			Svalbard and Jan Mayen	Svalbard and Jan Mayen		Unincorporated area administered by Norway
