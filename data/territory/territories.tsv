@@ -1,8 +1,8 @@
 territory	name	official-name	text
 AE-AZ	Abu Dhabi	Emirate of Abu Dhabi	Constituent emirate of the United Arab Emirates
-SH-AC	Ascension	Saint Helena, Ascension and Tristan da Cunha	United Kingdom Overseas Territory. Comprises Saint Helena, Ascension and Tristan da Cunha (together with Gough, Inaccessible, Nightingale, Middle and Stoltenhoff Islands).
+SH-AC	Ascension	Ascension Island	Part of United Kingdom Overseas Territory “Saint Helena, Ascension and Tristan da Cunha” (together with Gough, Inaccessible, Nightingale, Middle and Stoltenhoff Islands).
 AE-AJ	Ajman	Emirate of Ajman	Constituent emirate of the United Arab Emirates
-AKR	Akrotiri	Sovereign Base Areas of Akrotiri and Dhekelia	United Kingdom Overseas Territory
+XQZ	Akrotiri	Sovereign Base Areas of Akrotiri and Dhekelia	United Kingdom Overseas Territory
 AX	Åland Islands	Åland Islands	Autonomous region of Finland
 AS	American Samoa	Territory of American Samoa	Unincorporated territory of the United States
 AI	Anguilla	Anguilla	United Kingdom Overseas Territory
@@ -10,7 +10,7 @@ AQ	Antarctica	Antarctica
 AW	Aruba	Aruba	Constituent country of the Kingdom of the Netherlands
 UM-81	Baker Island	Baker Island	Unincorporated territory of the United States
 BM	Bermuda	Bermuda	United Kingdom Overseas Territory
-BQ-BO	Bonaire	Bonaire	Special municipality of the Netherlands. Bonaire, Sint Eustatius and Saba are also referred to as the "Dutch Caribbean".
+BQ-BO	Bonaire	Bonaire	Special municipality of the Netherlands. Bonaire, Sint Eustatius and Saba are also referred to as the “Dutch Caribbean”.
 BV	Bouvet Island	Bouvet Island	Dependency of Norway
 BAT	British Antarctic Territory	British Antarctic Territory	United Kingdom Overseas Territory. The British Antarctic Territory consists of all land, islands and ice shelves south of latitude 60°S between longitude 20°W and 80°W.
 IO	British Indian Ocean Territory	The British Indian Ocean Territory	The British Indian Ocean Territory consists of the Chagos Archipelago, including Diego Garcia.
@@ -21,7 +21,7 @@ CC	Cocos (Keeling) Islands	Territory of the Cocos (Keeling) Islands	External ter
 CK	Cook Islands	Cook Islands	Self governing territory in free association with New Zealand.
 ES-CE	Cueta	Cueta	Autonomous city of Spain
 CW	Curaçao	Country of Curaçao	Constituent country of the Kingdom of the Netherlands
-DHK	Dhekelia	Sovereign Base Areas of Akrotiri and Dhekelia	United Kingdom Overseas Territory
+XXD	Dhekelia	Sovereign Base Areas of Akrotiri and Dhekelia	United Kingdom Overseas Territory
 AE-DU	Dubai	Emirate of Dubai	Constituent emirate of the United Arab Emirates
 FK	Falkland Islands	Falkland Islands	United Kingdom Overseas Territory
 FO	Faroe Islands	Faroe Islands	Autonomous country within the Danish Realm
@@ -59,19 +59,19 @@ PN	Pitcairn, Henderson, Ducie and Oeno Islands	Pitcairn, Henderson, Ducie and Oe
 PR	Puerto Rico	Commonwealth of Puerto Rico	United States territory
 RE	Réunion	Réunion	Overseas department of France
 AE-RK	Ras al-Khaimah	Emirate of Ras al-Khaimah	Constituent emirate of the United Arab Emirates
-BQ-SA	Saba	Saba	Special municipality of the Netherlands. Bonaire, Sint Eustatius and Saba are also referred to as the "Dutch Caribbean".
+BQ-SA	Saba	Saba	Special municipality of the Netherlands. Bonaire, Sint Eustatius and Saba are also referred to as the “Dutch Caribbean”.
 BL	Saint Barthélemy	Saint Barthélemy	Overseas collectivity of France
-SH-HL	Saint Helena	Saint Helena, Ascension and Tristan da Cunha	United Kingdom Overseas Territory. Comprises Saint Helena, Ascension and Tristan da Cunha (together with Gough, Inaccessible, Nightingale, Middle and Stoltenhoff Islands).
-MF	Saint Martin (French part)	Collectivity of Saint Martin	Overseas collectivity of France
+SH-HL	Saint Helena	Saint Helena	Part of United Kingdom Overseas Territory “Saint Helena, Ascension and Tristan da Cunha” (together with Gough, Inaccessible, Nightingale, Middle and Stoltenhoff Islands).
+MF	Saint-Martin (French part)	Collectivity of Saint Martin	Overseas collectivity of France
 PM	Saint Pierre and Miquelon	Saint Pierre and Miquelon	Overseas collectivity of France
 AE-SH	Sharjah	Emirate of Sharjah	Constituent emirate of the United Arab Emirates
-BQ-SE	Sint Eustatius	Sint Eustatius	Special municipality of the Netherlands. Bonaire, Sint Eustatius and Saba are also referred to as the "Dutch Caribbean".
+BQ-SE	Sint Eustatius	Sint Eustatius	Special municipality of the Netherlands. Bonaire, Sint Eustatius and Saba are also referred to as the “Dutch Caribbean”.
 SX	Sint Maarten (Dutch part)	Sint Maarten	Constituent country of the Kingdom of the Netherlands
 GS	South Georgia and South Sandwich Islands	South Georgia and the South Sandwich Islands	United Kingdom Overseas Territory
-SJ	Svalbard and Jan Mayen	Svalbard and Jan Mayen	Unincorporated area administered by Norway
+SJ	Svalbard and Jan Mayen	Svalbard and Jan Mayen	Unincorporated areas administered by Norway.
 TW	Taiwan	Taiwan	
 TK	Tokelau	Tokelau	Territory of New Zealand
-SH-TA	Tristan da Cunha	Saint Helena, Ascension and Tristan da Cunha	United Kingdom Overseas Territory. Comprises Saint Helena, Ascension and Tristan da Cunha (together with Gough, Inaccessible, Nightingale, Middle and Stoltenhoff Islands).
+SH-TA	Tristan da Cunha	Tristan da Cunha	Part of United Kingdom Overseas Territory “Saint Helena, Ascension and Tristan da Cunha” (together with Gough, Inaccessible, Nightingale, Middle and Stoltenhoff Islands).
 TC	Turks and Caicos Islands	Turks and Caicos Islands	
 AE-UQ	Umm al-Quwain	Emirate of Umm al-Quwain	Constituent emirate of the United Arab Emirates
 VI	United States Virgin Islands	Virgin Islands of the United States	Unincorporated territory of the United States
