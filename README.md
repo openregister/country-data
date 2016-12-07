@@ -2,6 +2,10 @@
 
 Data for the [country](http://country.openregister.org), the [territory](http://territory.openregister.org) and [uk](https://uk.discovery.openregister.org) registers.
 
+# lists
+
+[Lists](lists) of countries and territories found in government documents, data and services used to produce a [report](http://openregister.github.io/country-data/lists/report.html).
+
 # Licence
 
 The software in this project is covered by LICENSE file.
